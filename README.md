@@ -24,9 +24,9 @@
 - 🗺️ **Geospatial Analysis:** Using **GeoPandas**.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoadVI&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-two-bice.vercel.app/api?username=MoadVI&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoadVI&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-two-bice.vercel.app/api/top-langs/?username=MoadVI&layout=compact&theme=radical&cache_seconds=86400)
 ---
 
 ### 📫 How to reach me
