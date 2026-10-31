@@ -1,14 +1,14 @@
-# Hi, I'm Moad Chahti! 👋
+# Hi, I'm Moad Chahti! 
 
-### 🚀 About Me
-- 🎓 I'm currently studying **Computer Science**.
-- 💻 I enjoy working on **Full-Stack Development** and exploring **System Internals**.
-- 🐧 I'm a big fan of **Linux** and highly customized development environments.
-- 🛠️ Currently learning more about **Machine Learning** and **Data Science**.
+### About Me
+- I'm currently studying **Computer Science**.
+- I enjoy working on **Full-Stack Development** and exploring **System Internals**.
+- I'm a big fan of **Linux** and highly customized development environments.
+- Currently learning more about **Machine Learning** and **Data Science**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,15 +18,16 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-00C1D4?logo=hyprland&logoColor=white&style=for-the-badge)
 ---
 
-### 📈 Data Science Workflow
-- 🧹 **Data Manipulation:** Expert handling of large datasets using **Pandas** and **NumPy**.
-- 📊 **Visualization:** Crafting clear, insightful charts and heatmaps with **Seaborn**.
-- 🗺️ **Geospatial Analysis:** Using **GeoPandas**.
+### Data Science Workflow
+- **Data Manipulation:** Expert handling of large datasets using **Pandas** and **NumPy**.
+- **Visualization:** Crafting clear, insightful charts and heatmaps with **Seaborn**.
+- **Geospatial Analysis:** Using **GeoPandas**.
 
 
+### Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoadVI&show_icons=true&theme=radical&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoadVI&theme=radical)
 ---
 
-### 📫 How to reach me
-- 📧 [Email](moadchahti@gmail.com)
+### How to reach me
+- [Email](moadchahti@gmail.com)
