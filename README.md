@@ -25,8 +25,7 @@
 
 
 ### Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoadVI&show_icons=true&theme=radical&include_all_commits=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoadVI&theme=radical)
 ---
 
 ### How to reach me
